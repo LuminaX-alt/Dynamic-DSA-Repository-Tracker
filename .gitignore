@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Gradio temp
+gradio_cached_examples/

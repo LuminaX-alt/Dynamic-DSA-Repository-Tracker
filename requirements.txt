@@ -1,2 +1,8 @@
 gradio
 pygments
+
+transformers
+
+codecarbon
+requests
+flask
